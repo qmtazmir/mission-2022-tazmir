@@ -1,7 +1,9 @@
 body {
-  background-color: ;
+  background-color: #52597A  ;
   font-family: "Montserrat", sans-serif;
-}
+  margin-top: 50px;
+  }
+  
 .stay,
 .mission {
   font-family: "Montserrat", sans-serif;
@@ -20,11 +22,13 @@ body {
 .focused-22 {
   display: flex;
   margin: 10px;
+
 }
+
 
 .m2022 {
   width: 80%;
-  padding-right: 20px;
+  padding-right: 60px;
 }
 .expoler-button {
   text-decoration: none;
@@ -62,16 +66,35 @@ body {
 }
 
 .mvg-1{
-  background-color: #F3ECEA;
+  background-color:#C9F3E1    ;
   text-align: justify;
   
 
 }
 .mvg-2{
-  background-color: #E7F1F1 ;
+  background-color: #F6BEE5  ;
   text-align: center;
 }
 .mvg-3{
-  background-color: #F1EBE3 ;
+  background-color: #F7F694   ;
   text-align: center;
+}
+.the-three{
+    display: flex;
+  margin: 100px;
+  justify-content: center;
+
+}
+.develop{
+  padding-left: 100px;
+
+}
+.larning{
+  padding-right: 150px;
+  margin-right: 150px;
+  text-align: justify;
+
+}
+.coding-pic{
+  padding-left: 25px;
 }
