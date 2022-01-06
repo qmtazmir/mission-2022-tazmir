@@ -110,5 +110,20 @@ body {
 }
 
 .corona-pic{
-  padding-bottom: 50;
+  padding-bottom: 200px;
+}
+.safe{
+  padding-top: 150px;
+  padding-right: 150px;
+  margin-right: 150px;
+  text-align: justify;
+}
+
+.the-end{
+  color: white;
+  background-color: #060819  ;
+  padding-top: 30px;
+  padding-bottom: 90px;
+  text-align: center;
+
 }
