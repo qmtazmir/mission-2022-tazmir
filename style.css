@@ -1,27 +1,37 @@
 body {
+  background-color: ;
   font-family: "Montserrat", sans-serif;
 }
-h1 {
-  color: green;
+.stay,
+.mission {
+  font-family: "Montserrat", sans-serif;
+  font-size: 60px;
+  color: indigo;
+  margin: 0 !important;
 }
 .mission {
-  color: indigo;
+  color: blueviolet;
 }
+.vt-line {
+  padding-left: 10px;
+  border-left: 6px solid green;
+}
+
 .focused-22 {
   display: flex;
   margin: 10px;
 }
 
 .m2022 {
-  width: 50%;
+  width: 80%;
   padding-right: 20px;
 }
 .expoler-button {
   text-decoration: none;
-  background-image: linear-gradient(black, white);
+  background-image: linear-gradient(gray, white);
   padding: 10px 40px;
   color: orangered;
   font-weight: 700;
-  margin-top: 5px;gi
-  border-radius: 15;
+  margin-top: 60px !important;
+  border-radius: 15px;
 }
