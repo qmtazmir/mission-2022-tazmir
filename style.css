@@ -1,0 +1,27 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  color: green;
+}
+.mission {
+  color: indigo;
+}
+.focused-22 {
+  display: flex;
+  margin: 10px;
+}
+
+.m2022 {
+  width: 50%;
+  padding-right: 20px;
+}
+.expoler-button {
+  text-decoration: none;
+  background-image: linear-gradient(black, white);
+  padding: 10px 40px;
+  color: orangered;
+  font-weight: 700;
+  margin-top: 5px;gi
+  border-radius: 15;
+}
