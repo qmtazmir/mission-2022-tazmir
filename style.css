@@ -3,7 +3,7 @@ body {
   font-family: "Montserrat", sans-serif;
   margin-top: 50px;
   }
-  
+
 .stay,
 .mission {
   font-family: "Montserrat", sans-serif;
@@ -22,6 +22,8 @@ body {
 .focused-22 {
   display: flex;
   margin: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
 
 }
 
@@ -97,4 +99,16 @@ body {
 }
 .coding-pic{
   padding-left: 25px;
+}
+.project{
+  padding-right: 60px;
+}
+.global{
+  padding-right: 200px;
+  padding-left: 50px;
+  text-align: justify;
+}
+
+.corona-pic{
+  padding-bottom: 50;
 }
