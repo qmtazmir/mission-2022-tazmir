@@ -109,8 +109,13 @@ body {
   text-align: justify;
 }
 
-.corona-pic{
+.corona-pic {
   padding-bottom: 200px;
+}
+.coding-pic img{
+width: 350px;
+margin-top: -70px;
+
 }
 .safe{
   padding-top: 150px;
