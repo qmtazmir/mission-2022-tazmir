@@ -1,8 +1,8 @@
 body {
-  background-color: #52597A  ;
+  background-color: #52597A;
   font-family: "Montserrat", sans-serif;
   margin-top: 50px;
-  }
+}
 
 .stay,
 .mission {
@@ -11,9 +11,11 @@ body {
   color: indigo;
   margin: 0 !important;
 }
+
 .mission {
   color: blueviolet;
 }
+
 .vt-line {
   padding-left: 10px;
   border-left: 6px solid green;
@@ -24,14 +26,13 @@ body {
   margin: 10px;
   padding-left: 50px;
   padding-right: 50px;
-
 }
-
 
 .m2022 {
   width: 80%;
   padding-right: 60px;
 }
+
 .expoler-button {
   text-decoration: none;
   background-image: linear-gradient(gray, white);
@@ -41,69 +42,88 @@ body {
   margin-top: 60px !important;
   border-radius: 15px;
 }
-.more{
-  padding-top:0.5cm;
+
+.more {
+  padding-top: 0.5cm;
 }
-.the-second{
+
+.the-second {
   display: flex;
   justify-content: center;
-   
+
 }
-.mvg-1 h2, .mvg-2 h2, .mvg-3 h2{
+
+.mvg-1 h2,
+.mvg-2 h2,
+.mvg-3 h2 {
   font-size: 30px;
 }
-.mvg-1 p, .mvg-2 p, .mvg-3 p{
+
+.mvg-1 p,
+.mvg-2 p,
+.mvg-3 p {
   font-size: 18px;
   text-align: justify;
 }
 
-.mvg-1 img, .mvg-2 img, .mvg-3 img{
+.mvg-1 img,
+.mvg-2 img,
+.mvg-3 img {
   width: 150px;
 }
-.mvg-1,   .mvg-2,  .mvg-3 {
+
+.mvg-1,
+.mvg-2,
+.mvg-3 {
   width: 25%;
   border-radius: 30px;
-  margin: 0 10px ;
+  margin: 0 10px;
   padding: 30px 20px;
 }
 
-.mvg-1{
-  background-color:#C9F3E1    ;
+.mvg-1 {
+  background-color: #C9F3E1;
   text-align: justify;
-  
-
 }
-.mvg-2{
-  background-color: #F6BEE5  ;
+
+.mvg-2 {
+  background-color: #F6BEE5;
   text-align: center;
 }
-.mvg-3{
-  background-color: #F7F694   ;
+
+.mvg-3 {
+  background-color: #F7F694;
   text-align: center;
 }
-.the-three{
-    display: flex;
-  margin: 100px;
-  justify-content: center;
 
+.the-three {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
-.develop{
+
+.develop {
   padding-left: 100px;
-
 }
-.larning{
-  padding-right: 150px;
-  margin-right: 150px;
+
+.larning {
+  padding-right: 250px;
   text-align: justify;
-
 }
-.coding-pic{
+
+.unique {
+  margin-bottom: 250px;
+}
+
+.coding-pic {
   padding-left: 25px;
 }
-.project{
+
+.project {
   padding-right: 60px;
 }
-.global{
+
+.global {
   padding-right: 200px;
   padding-left: 50px;
   text-align: justify;
@@ -112,26 +132,26 @@ body {
 .corona-pic {
   padding-bottom: 200px;
 }
-.coding-pic img{
-width: 350px;
-margin-top: -70px;
 
+.coding-pic img {
+  width: 350px;
 }
-.safe{
+
+.safe {
   padding-top: 150px;
   padding-right: 150px;
   margin-right: 150px;
   text-align: justify;
 }
 
-.the-end{
+.the-end {
   color: white;
-  background-color: #060819  ;
+  background-color: #060819;
   padding-top: 30px;
-  padding-bottom: 90px;
+  padding-bottom: 40px;
   text-align: center;
-
 }
-.mission-font{
+
+.mission-font {
   font-family: 'Righteous', cursive;
 }
